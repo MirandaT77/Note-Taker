@@ -2,6 +2,7 @@
 University of Oregon Bootcamp
 
 A note keeper for personal or office use.
+[Check out the Note-taker App here!](https://note-taker-77.herokuapp.com/)
 
 ## User Story
 
