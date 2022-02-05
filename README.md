@@ -32,4 +32,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 Created by: [Miranda Thompson](https://github.com/MirandaT77)
-* [Contact Me:](ranileah7@gmail.com)
+* [Contact me by email](ranileah7@gmail.com)
